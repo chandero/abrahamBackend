@@ -1,0 +1,17 @@
+logs
+target
+.idea
+.idea_modules
+.ivy2
+RUNNING_PID
+.sbtserver/connections/master.log
+.sbtserver/previous.log
+.sbtserver/master.log.01
+.sbtserver/master.log
+.sbtserver/connections/play-fork-run-41a70f4a-b72e-4d46-95ff-fe5fc8e0172d.log
+.sbtserver/connections/play-fork-run-41a70f4a-b72e-4d46-95ff-fe5fc8e0172d.log.01
+*.class 
+*.jar
+*.war
+*.log
+*.zip
